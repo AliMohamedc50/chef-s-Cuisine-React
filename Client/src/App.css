@@ -1,0 +1,284 @@
+:root {
+    --main-color: rgb(0, 114, 69);
+    --head-text: #353a35;
+    --lightgeen1-box: #d6e5d8;
+}
+body {
+    background: rgb(243, 255, 255);
+}
+/* Start local */
+/* Start local */
+
+.w-h-img-cover {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.m-bot-m-top {
+    padding-bottom: 65px;
+    padding-top: 65px;
+}
+
+
+h3 {
+    color: var(--main-color);
+}
+
+h4 {
+    color: var(--head-text);
+}
+
+h1 {
+    color: var(--head-text);
+}
+
+h2 {
+    color: var(--head-text);
+    font-weight: 700;
+}
+
+p {
+    line-height: 1.5;
+}
+
+.hold-stars {
+    width: 130px;
+    margin-bottom: 20px;
+}
+
+.hold-stars img {
+    width: 100%;
+}
+
+.hold {
+    max-width: 800px;
+}
+
+.photo {
+    max-width: 800px;
+}
+
+/* End local */
+
+
+/* Start navbar */
+.navbar .navbar-nav .nav-link {
+    color: #242424;
+    font-weight: 500;
+}
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus {
+    color: var(--main-color);
+}
+.Book-Table {
+    background: var(--main-color);
+    padding: 8px 25px;
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 7px;
+}
+/* End navbar */
+
+/* Start Footer */
+footer {
+    background-color: #e2e2e2;
+}
+footer ul {
+    padding: 0;
+    padding-top: 20px;
+    margin: 0;
+}
+footer ul li {
+    list-style: none;
+    padding: 3px;
+    font-size: 18px;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
+/* End Footer */
+
+/* Start Our Info  */
+.storeInfo .container .Infoitem {
+    width: 210px;
+    height: 210px;
+    background-color: var(--lightgeen1-box);
+    border-radius: 15px;
+}
+.storeInfo .container .Infoitem svg {
+    color: var(--main-color);
+}
+/* End Our Info  */
+
+
+/* <!-- Start Our Specials --> */
+
+.ourSpecials__item {
+    background-color: var(--lightgeen1-box);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+
+.flying-photo {
+    /* width: 90%; */
+    border-radius: 18px;
+    overflow: hidden;
+    /* margin-top: -50%; */
+}
+
+
+/* <!-- End Our Specials --> */
+
+
+
+/* Start Top Dishes */
+.dish {
+    background-color: var(--lightgeen1-box);
+    border-radius: 15px;
+}
+
+.dish .hold-img-dish {
+    width: 150px;
+    height: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+/* .carousel-inner {
+        overflow-x: clip !important;
+} */
+/* End Top Dishes */
+
+
+  /* <!-- Start Dish For Discount --> */
+
+  .info-dish-for-discount {
+      position: relative;
+  }
+
+  .container-dish-for-discount {
+      background: var(--lightgeen1-box);
+      border-radius: 15px;
+  }
+
+  .hold-h3 .h3 {
+      color: #242424;
+  }
+
+  .imags-discount {
+      position: absolute;
+      width: 150px;
+      right: -15px;
+      bottom: -15px;
+  }
+
+  /* <!-- End Dish For Discount --> */
+
+  /* <!-- End images for Events --> */
+  .item {
+      background: var(--lightgeen1-box);
+  }
+
+  /* <!-- End images for Events --> */
+
+  /* <!-- Start Choose Our Food --> */
+  .hold-why-us {
+      width: 50%;
+  }
+
+  .why-us {
+      background: var(--lightgeen1-box);
+
+  }
+
+  .cont_right {
+      text-align: center;
+  }
+
+  /* <!-- End Choose Our Food --> */
+
+/* <!-- Start comment from Our Customers  --> */
+.comment .row {
+    background-color: var(--lightgeen1-box);
+}
+
+/* <!-- End comment from Our Customers  --> */
+
+
+
+.newsletter .container {
+    background-color: #83cbb0;
+}
+
+
+
+.newsletter form {
+    width: 100%;
+}
+
+.newsletter .right input {
+    padding: 20px;
+    border: none;
+    outline: none;
+    border-radius: 15px 0 0 15px;
+    width: 80%;
+    font-weight: 700;
+}
+
+.newsletter .container .right button {
+    padding: 20px;
+    margin: -5px;
+    border: none;
+    background: aquamarine;
+    border-radius: 0 15px 15px 0;
+    width: 20%;
+    font-weight: 700;
+}
+
+
+/* start menu */
+/* Start Explore Our Menu */
+.hold-specials {
+    background-color: var(--lightgeen1-box);
+}
+
+/* End Explore Our Menu */
+
+
+/* Start form  */
+section form input,
+section form select {
+    padding: 10px;
+    border: none;
+    background: var(--lightgeen1-box);
+    border-radius: 10px;
+    outline: none;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+textarea {
+    background: var(--lightgeen1-box);
+    border: none;
+    border-radius: 10px;
+    outline: none;
+}
+
+label {
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.form__group {
+    display: flex;
+    flex-direction: column;
+}
+
+/* End form */

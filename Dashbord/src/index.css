@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #EEF7FF !important;
+}
+.links {
+transition: .2s ;
+top: 0;
+left: 0;
+}
+.active {
+    top: 0;
+    left: -50%;
+}
+
+th,
+td {
+    border: 2px solid #40A578;
+}
+
+input {
+    padding: 7px 5px;
+    background-color: #ffffff;
+    border: 1px solid #4D869C;
+    border-radius: 7px;
+}
