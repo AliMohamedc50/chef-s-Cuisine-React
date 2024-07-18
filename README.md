@@ -12,4 +12,17 @@ Chef's Cuisine React is a comprehensive web application that enables customers t
 - React Router is implemented for client-side routing and navigation.
 
 
+### Manager Dashboard:
+- Managers can view and manage all items including the ability to edit, update
+- The dashboard provides an overview of key operational data, such as upcoming reservations, customer information, and reporting.
+- The dashboard is developed using React, with Strapi as the headless CMS for managing the restaurant's data.
+- Axios is utilized for API communication between the dashboard and the Strapi backend.
+- Tailwind CSS is used for the dashboard's UI design and responsiveness.
 
+### Technology Stack:
+- Front-end: React, Bootstrap, Tailwind CSS, Axios, React Router
+- Back-end: Strapi (headless CMS)
+- API Integration: Axios
+
+### Outcome:
+This project demonstrates my proficiency in building full-stack web applications that cater to both customer and management needs. I leveraged a range of modern web technologies, including React, Bootstrap, Tailwind CSS, and Axios, to create a seamless user experience and efficient data management capabilities.
