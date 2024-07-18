@@ -2,9 +2,9 @@
 # Project Overview
 __Chef's Cuisine React is a comprehensive web application that enables customers to explore the restaurant's offerings and make reservations, while also providing a dashboard for managers to manage daily operations.__
 
-Key Features
-Customer-Facing Website
-Responsive website built with React, Bootstrap, and Tailwind CSS
+# Key Features
+**Customer-Facing Website**
+Responsive website built with React, Bootstrap, and Tailwind CSS.
 Customers can browse the menu, view offers/events, and make reservations
 Axios used for API integration to fetch menu, offer, and reservation data
 React Router implemented for client-side routing
