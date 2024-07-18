@@ -1,7 +1,7 @@
 ### Chef's Cuisine React
 # Project Overview
 
-Chef's Cuisine React is a comprehensive web application that enables customers to explore the restaurant's offerings and make reservations, while also providing a dashboard for managers to manage daily operations.
+Chef's Cuisine is a comprehensive web application that enables customers to explore the restaurant's offerings and make reservations, while also providing a dashboard for managers to manage daily operations.
 
 ## Key Features
 ### Customer-Facing Website
